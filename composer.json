@@ -1,5 +1,6 @@
 {
     "name": "matheus-henrique/php-pacote",
+    "license": "MIT",
     "description": "Meu primeiro pacote php",
     "type": "library",
     "autoload": {
