@@ -1,0 +1,16 @@
+{
+    "name": "matheus-henrique/php-pacote",
+    "description": "Meu primeiro pacote php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MatheusHenrique\\PhpPacote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Henrique"
+        }
+    ],
+    "require": {}
+}
